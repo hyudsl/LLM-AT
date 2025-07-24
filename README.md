@@ -18,7 +18,7 @@ LLM-AT operates with the following components:
 If the response is invalid, LLM-AT upgrades to a higher tier and repeats generation and evaluation until a valid response is obtained or the top tier is reached.
 
 <p align="center">
-  <img src="figure1.png" width="50%" />
+  <img src="figure1.png" width="80%" />
 </p>
 
 
